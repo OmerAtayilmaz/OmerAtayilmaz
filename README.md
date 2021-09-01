@@ -1,7 +1,6 @@
 <img align='left' src="https://yt3.ggpht.com/ytc/AKedOLRXa-uP_bq1V4jxCBxyfzS27k1n7aF06458RR7w=s88-c-k-c0x00ffffff-no-rj">
 
 # Merhaba, ben Ömer Atayilmaz! 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cobanov" alt="omer" /> </p>
 
 [![](https://img.shields.io/twitter/follow/omeratayilmaz?style=social)](https://www.twitter.com/OmerAtayilmaz)
 [![](https://img.shields.io/github/followers/cobanov?style=social)](https://www.github.com/OmerAtayilmaz)
