@@ -1,5 +1,7 @@
 <img align='left' src="https://yt3.ggpht.com/ytc/AKedOLRXa-uP_bq1V4jxCBxyfzS27k1n7aF06458RR7w=s88-c-k-c0x00ffffff-no-rj">
 
+[![Omer's GitHub stats](https://github-readme-stats.vercel.app/api?username=omeratayilmaz)](https://github.com/omeratayilmaz/github-readme-stats)
+
 # Merhaba, ben Ömer Atayilmaz! 
 
 [![](https://img.shields.io/twitter/follow/omeratayilmaz?style=social)](https://www.twitter.com/OmerAtayilmaz)
