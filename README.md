@@ -1,6 +1,7 @@
 <img align='left' src="https://yt3.ggpht.com/ytc/AKedOLRXa-uP_bq1V4jxCBxyfzS27k1n7aF06458RR7w=s88-c-k-c0x00ffffff-no-rj">
 
-[![Omer's GitHub stats](https://github-readme-stats.vercel.app/api?username=omeratayilmaz)](https://github.com/omeratayilmaz/github-readme-stats)
+<img  src="https://github-readme-stats.vercel.app/api?username=OmerAtayilmaz&theme=dark&show_icons=true" >
+
 
 # Merhaba, ben Ömer Atayilmaz! 
 
@@ -23,9 +24,12 @@
 <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"  width="35" height="35" />
 <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png"  width="35" height="35" />
 <br /><br />
-<br /><br />
-<br /><br />
 
+
+### :bulb:  Most Used Languages
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmerAtayilmaz&layout=compact&theme=dark" >
+
+<br /><br />
 [![](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white")](https://www.youtube.com/channel/UCzp7QYXkjdl9iQ3OksjbXKg)
 [![](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/OmerAtayilmaz)
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%C3%B6mer-atay%C4%B1lmaz-180006151/)
