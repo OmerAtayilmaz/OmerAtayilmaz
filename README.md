@@ -1,4 +1,3 @@
-<img align='left' src="https://yt3.ggpht.com/ytc/AKedOLRXa-uP_bq1V4jxCBxyfzS27k1n7aF06458RR7w=s88-c-k-c0x00ffffff-no-rj">
 
 <img  src="https://github-readme-stats.vercel.app/api?username=OmerAtayilmaz&theme=dark&show_icons=true" >
 
