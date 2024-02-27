@@ -4,7 +4,6 @@
 
 # Merhaba, ben Ömer Atayilmaz! 
 
-[![](https://img.shields.io/twitter/follow/omeratayilmaz?style=social)](https://www.twitter.com/OmerAtayilmaz)
 [![](https://img.shields.io/github/followers/omeratayilmaz?style=social)](https://www.github.com/OmerAtayilmaz)
 
 ## Technologies I use
