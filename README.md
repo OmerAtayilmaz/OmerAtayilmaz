@@ -1,6 +1,6 @@
 
 
-# Hi, I'm Ömer Atayilmaz! 
+# Hi, I'm a full-stack developer 
 
 [![](https://img.shields.io/github/followers/omeratayilmaz?style=social)](https://www.github.com/OmerAtayilmaz)
 
