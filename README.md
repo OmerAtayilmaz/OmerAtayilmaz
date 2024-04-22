@@ -48,7 +48,9 @@
 ### About Me 🍵
 🟢 Founder/Author at Webpulseify Coding Blog 💻 <br/>
 🟢 Graduated from CE <br/>
-🟢 Live in  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/125px-Flag_of_Turkey.svg.png"  width="25" style="margin-bottom:-5px"/>
+🟢 Live in  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/125px-Flag_of_Turkey.svg.png"  width="25" style="margin-bottom:-5px"/> <br/>
+🟢 Check my <a href="//omeratayilmaz.com" target="_blank">website</a> 
+
 
 <br /><br />
 
