@@ -2,7 +2,14 @@
 
 # Hi, I'm a full-stack developer 
 
+<br/>
+
+<img src="https://media.tenor.com/RA0A9TBAGskAAAAM/kakashi.gif"  style="margin:5px"  />
+
+<br/>
+
 [![](https://img.shields.io/github/followers/omeratayilmaz?style=social)](https://www.github.com/OmerAtayilmaz)
+
 
 
 ### Front-end 🎨
