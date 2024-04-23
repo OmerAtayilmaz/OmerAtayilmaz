@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://media.tenor.com/RA0A9TBAGskAAAAM/kakashi.gif"  style="margin:5px"  />
+<img src="https://media.tenor.com/RA0A9TBAGskAAAAM/kakashi.gif" width="400"  style="margin:5px"  />
 
 <br/>
 
