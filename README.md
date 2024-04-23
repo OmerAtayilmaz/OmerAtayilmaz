@@ -45,6 +45,13 @@
 <br /><br />
 <br /><br />
 
+## What am I working on currently?
+<p>A Full-STACK ERP Project with HRM, CMS, CRM and much more!</p>
+<img  src="https://github.com/OmerAtayilmaz/OmerAtayilmaz/blob/main/singleproject.jpg" />
+
+<br /><br />
+<br /><br />
+
 ### About Me 🍵
 🟢 Founder/Author at Webpulseify Coding Blog 💻 <br/>
 🟢 Graduated from CE <br/>
