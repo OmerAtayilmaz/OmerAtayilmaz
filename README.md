@@ -18,6 +18,9 @@
 
 <img align="left" src="https://nuxtjs.ir/logos/nuxt.svg"  width="50" height="50" style="margin:5px"  />
 
+
+<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" width="50" height="50" style="margin:5px" />
+
 <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="50" height="50" style="margin:5px" />
 
 <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="50" height="50" style="margin:5px"  />
