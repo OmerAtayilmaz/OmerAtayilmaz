@@ -50,7 +50,7 @@
 
 ## What am I working on currently?
 <p>A Full-STACK ERP Project with HRM, CMS, CRM and much more!</p>
-<img  src="https://github.com/OmerAtayilmaz/OmerAtayilmaz/blob/main/singleproject.jpg" />
+<img  src="https://github.com/OmerAtayilmaz/OmerAtayilmaz/blob/main/singleproject.png" />
 
 <br /><br />
 <br /><br />
