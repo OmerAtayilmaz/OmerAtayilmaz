@@ -8,9 +8,9 @@
 
 
 ### About Me 🍵
-🟢 I love Coding. 💻 <br/>
+🟢 I love Coding. 🤓 <br/>
 🟢 I'm CO-FOUNDER of WEBNEX BILISIM YAZILIM LTD. STI. 💻 <br/>
-🟢 Graduated from CE <br/>
-🟢 Live in ANKARA, TURKIYE <br/>
+🟢 Graduated from CE 😎 <br/>
+🟢 Live in ANKARA, TURKIYE 🇹🇷 <br/>
 
 <br /><br />
